@@ -1,0 +1,998 @@
+1,as,nhu
+2,I,toi
+3,he,ong
+4,for,cho
+5,on,tren
+6,are,la
+7,with,voi
+8,they,ho
+9,be,duoc
+10,at,tai
+11,one,mot
+12,have,co
+13,this,nay
+14,from,tu
+15,by,boi
+16,hot,nong
+17,word,tu
+18,but,nhung
+19,what,nhung gi
+20,some,mot so
+21,is,la
+22,it,no
+23,you,anh
+24,or,hoac
+25,had,co
+26,the,cac
+27,of,cua
+28,to,de
+29,and,va
+30,a,mot
+31,in,trong
+32,we,chung toi
+33,can,co the
+34,out,ra
+35,other,khac
+36,were,la
+37,which,ma
+38,do,lam
+39,their,cua ho
+40,time,thoi gian
+41,if,neu
+42,will,se
+43,how,nhu the nao
+44,said,noi
+45,an,mot
+46,each,moi
+47,tell,noi
+48,does,khong
+49,set,bo
+50,three,ba
+51,want,muon
+52,air,khong khi
+53,well,cung
+54,also,cung
+55,play,choi
+56,small,nho
+57,end,cuoi
+58,put,dat
+59,home,nha
+60,read,doc
+61,hand,tay
+62,port,cong
+63,large,lon
+64,spell,chinh ta
+65,add,them
+66,even,tham chi
+67,land,dat
+68,here,o day
+69,must,phai
+70,big,lon
+71,high,cao
+72,such,nhu vay
+73,follow,theo
+74,act,hanh dong
+75,why,ly do tai sao
+76,ask,xin
+77,men,nguoi dan ong
+78,change,thay doi
+79,went,di
+80,light,anh sang
+81,kind,loai
+82,off,tat
+83,need,can
+84,house,nha
+85,picture,hinh anh
+86,try,thu
+87,us,chung toi
+88,again,mot lan nua
+89,animal,dong vat
+90,point,diem
+91,mother,me
+92,world,the gioi
+93,near,gan
+94,build,xay dung
+95,self,tu
+96,earth,dat
+97,father,cha
+98,any,bat ky
+99,new,moi
+100,work,cong viec
+101,part,mot phan
+102,take,co
+103,get,duoc
+104,place,noi
+105,made,thuc hien
+106,live,song
+107,where,noi
+108,after,sau khi
+109,back,tro lai
+110,little,it
+111,only,chi
+112,round,chung quanh
+113,man,nguoi dan ong
+114,year,nam
+115,came,den
+116,show,chuong trinh
+117,every,moi
+118,good,tot
+119,me,toi
+120,give,cung cap cho
+121,our,cua chung toi
+122,under,duoi
+123,name,ten
+124,very,rat
+125,through,thong qua
+126,just,chi
+127,form,hinh thuc
+128,sentence,cau
+129,great,tuyet voi
+130,think,nghi
+131,say,noi
+132,help,giup
+133,low,thap
+134,line,dong
+135,differ,khac nhau
+136,turn,lan luot
+137,cause,nguyen nhan
+138,much,nhieu
+139,mean,co nghia la
+140,before,truoc
+141,move,di chuyen
+142,right,ngay
+143,boy,cau be
+144,old,cu
+145,too,qua
+146,same,nhu nhau
+147,she,co
+148,all,tat ca
+149,there,co
+150,when,khi
+151,up,len
+152,use,su dung
+153,your,cua ban
+154,way,cach
+155,about,ve
+156,many,nhieu
+157,then,sau do
+158,them,ho
+159,write,viet
+160,would,se
+161,like,nhu
+162,so,de
+163,these,cac
+164,her,co
+165,long,lau
+166,make,lam
+167,thing,dieu
+168,see,thay
+169,him,anh
+170,two,hai
+171,has,co
+172,look,xem
+173,more,hon
+174,day,ngay
+175,could,co the
+176,go,di
+177,come,den
+178,did,da lam
+179,number,so
+180,sound,am thanh
+181,no,khong co
+182,most,nhat
+183,people,nhan dan
+184,my,cua toi
+185,over,hon
+186,know,biet
+187,water,nuoc
+188,than,hon
+189,call,goi
+190,first,dau tien
+191,who,nguoi
+192,may,co the
+193,down,xuong
+194,side,ben
+195,been,duoc
+196,now,bay gio
+197,find,tim
+198,head,dau
+199,stand,dung
+200,own,rieng
+201,page,trang
+202,should,nen
+203,country,nuoc
+204,found,tim thay
+205,answer,cau tra loi
+206,school,truong
+207,grow,phat trien
+208,study,nghien cuu
+209,still,van
+210,learn,hoc
+211,plant,nha may
+212,cover,bia
+213,food,thuc pham
+214,sun,anh nang mat troi
+215,four,bon
+216,between,giua
+217,state,nha nuoc
+218,keep,giu
+219,eye,mat
+220,never,khong bao gio
+221,last,cuoi cung
+222,let,cho phep
+223,thought,nghi
+224,city,thanh pho
+225,tree,cay
+226,cross,qua
+227,farm,trang trai
+228,hard,cung
+229,start,bat dau
+230,might,might
+231,story,cau chuyen
+232,saw,cua
+233,far,den nay
+234,sea,bien
+235,draw,ve
+236,left,con lai
+237,late,cuoi
+238,run,chay
+239,don’t,khong
+240,while,trong khi
+241,press,bao chi
+242,close,gan
+243,night,dem
+244,real,thuc
+245,life,cuoc song
+246,few,so
+247,north,phia bac
+248,book,cuon sach
+249,carry,thuc hien
+250,took,mat
+251,science,khoa hoc
+252,eat,an
+253,room,phong
+254,friend,nguoi ban
+255,began,bat dau
+256,idea,y tuong
+257,fish,ca
+258,mountain,nui
+259,stop,ngan chan
+260,once,mot lan
+261,base,co so
+262,hear,nghe
+263,horse,ngua
+264,cut,cat
+265,sure,chac chan
+266,watch,xem
+267,color,mau
+268,face,khuon mat
+269,wood,go
+270,main,chinh
+271,open,mo
+272,seem,duong nhu
+273,together,cung
+274,next,tiep theo
+275,white,trang
+276,children,tre em
+277,begin,bat dau
+278,got,co
+279,walk,di bo
+280,example,Vi du
+281,ease,giam bot
+282,paper,giay
+283,group,nhom
+284,always,luon luon
+285,music,nhac
+286,those,nhung
+287,both,ca hai
+288,mark,danh dau
+289,often,thuong
+290,letter,thu
+291,until,cho den khi
+292,mile,dam
+293,river,song
+294,car,xe
+295,feet,chan
+296,care,cham soc
+297,second,thu hai
+298,enough,du
+299,plain,dong bang
+300,girl,co gai
+301,usual,thong thuong
+302,young,tre
+303,ready,san sang
+304,above,tren day
+305,ever,bao gio
+306,red,mau do
+307,list,danh sach
+308,though,mac du
+309,feel,cam thay
+310,talk,noi chuyen
+311,bird,chim
+312,soon,som
+313,body,co the
+314,dog,con cho
+315,family,gia dinh
+316,direct,truc tiep
+317,pose,dat ra
+318,leave,lai
+319,song,bai hat
+320,measure,do luong
+321,door,cua
+322,product,san pham
+323,black,den
+324,short,ngan
+325,numeral,chu so
+326,class,lop
+327,wind,gio
+328,question,cau hoi
+329,happen,xay ra
+330,complete,hoan thanh
+331,ship,tau
+332,area,khu vuc
+333,half,mot nua
+334,rock,da
+335,order,de
+336,fire,lua
+337,south,nam
+338,problem,van de
+339,piece,manh
+340,told,noi
+341,knew,biet
+342,pass,vuot qua
+343,since,tu
+344,top,dau
+345,whole,toan bo
+346,king,vua
+347,street,duong pho
+348,inch,inch
+349,multiply,nhan
+350,nothing,khong co gi
+351,course,Tat nhien
+352,stay,o lai
+353,wheel,banh xe
+354,full,day du
+355,force,luc
+356,blue,mau xanh
+357,object,doi tuong
+358,decide,quyet dinh
+359,surface,be mat
+360,deep,sau
+361,moon,mat trang
+362,island,dao
+363,foot,chan
+364,system,he thong
+365,busy,ban ron
+366,test,kiem tra
+367,record,ghi
+368,boat,thuyen
+369,common,pho bien
+370,gold,vang
+371,possible,co the
+372,plane,may bay
+373,stead,thay
+374,dry,kho
+375,wonder,tu hoi
+376,laugh,cuoi
+377,thousand,ngan
+378,ago,truoc
+379,ran,ran
+380,check,kiem tra
+381,game,tro choi
+382,shape,hinh dang
+383,equate,danh dong
+384,hot,nong
+385,miss,bo lo
+386,brought,mang
+387,heat,nhiet
+388,snow,tuyet
+389,tire,lop xe
+390,bring,mang lai
+391,yes,vang
+392,distant,xa
+393,fill,dien
+394,east,dong
+395,paint,son
+396,language,ngon ngu
+397,among,trong
+398,unit,don vi
+399,power,dien
+400,town,thi tran
+401,fine,tot
+402,certain,nhat dinh
+403,fly,bay
+404,fall,giam
+405,lead,dan
+406,cry,keu
+407,dark,toi
+408,machine,may
+409,note,ghi
+410,wait,doi
+411,plan,ke hoach
+412,figure,con so
+413,star,sao
+414,box,hop
+415,noun,danh tu
+416,field,linh vuc
+417,rest,phan con lai
+418,correct,chinh xac
+419,able,the
+420,pound,bang
+421,done,Xong
+422,beauty,ve dep
+423,drive,o dia
+424,stood,dung
+425,contain,chua
+426,front,truoc
+427,teach,day
+428,week,tuan
+429,final,thuc
+430,gave,da
+431,green,mau xanh la cay
+432,oh,oh
+433,quick,nhanh chong
+434,develop,phat trien
+435,ocean,dai duong
+436,warm,am ap
+437,free,mien phi
+438,minute,phut
+439,strong,manh me
+440,special,dac biet
+441,mind,tam
+442,behind,sau
+443,clear,trong
+444,tail,duoi
+445,produce,san xuat
+446,fact,thuc te
+447,space,khong gian
+448,heard,nghe
+449,best,tot nhat
+450,hour,gio
+451,better,tot hon
+452,true,dung
+453,during,trong khi
+454,hundred,tram
+455,five,nam
+456,remember,nho
+457,step,buoc
+458,early,dau
+459,hold,giu
+460,west,tay
+461,ground,mat dat
+462,interest,quan tam
+463,reach,dat
+464,fast,nhanh chong
+465,verb,dong tu
+466,sing,hat
+467,listen,lang nghe
+468,six,sau
+469,table,bang
+470,travel,du lich
+471,less,it
+472,morning,buoi sang
+473,ten,muoi
+474,simple,don gian
+475,several,nhieu
+476,vowel,nguyen am
+477,toward,huong
+478,war,chien tranh
+479,lay,dat
+480,against,chong lai
+481,pattern,mo hinh
+482,slow,cham
+483,center,trung tam
+484,love,tinh yeu
+485,person,nguoi
+486,money,tien
+487,serve,phuc vu
+488,appear,xuat hien
+489,road,duong
+490,map,Ban do
+491,rain,mua
+492,rule,quy tac
+493,govern,phoi
+494,pull,keo
+495,cold,lanh
+496,notice,thong bao
+497,voice,giong noi
+498,energy,nang luong
+499,hunt,san
+500,probable,co the xay ra
+501,bed,giuong
+502,brother,anh trai
+503,egg,trung
+504,ride,di xe
+505,cell,pin
+506,believe,tin
+507,perhaps,co le
+508,pick,chon
+509,sudden,dot ngot
+510,count,tinh
+511,square,vuong
+512,reason,ly do
+513,length,chieu dai
+514,represent,dai dien
+515,art,nghe thuat
+516,subject,Tieu de
+517,region,khu
+518,size,kich thuoc
+519,vary,khac nhau
+520,settle,giai quyet
+521,speak,noi
+522,weight,trong luong
+523,general,chung
+524,ice,bang
+525,matter,van de
+526,circle,vong tron
+527,pair,doi
+528,include,bao gom
+529,divide,chia
+530,syllable,am tiet
+531,felt,cam thay
+532,grand,lon
+533,ball,bong
+534,yet,nhung
+535,wave,song
+536,drop,roi
+537,heart,tim
+538,am,la
+539,present,hien nay
+540,heavy,nang
+541,dance,khieu vu
+542,engine,dong co
+543,position,vi tri
+544,arm,canh tay
+545,wide,rong
+546,sail,buom
+547,material,tai lieu
+548,fraction,phan
+549,forest,rung
+550,sit,ngoi
+551,race,cuoc dua
+552,window,cua so
+553,store,cua hang
+554,summer,mua he
+555,train,dao tao
+556,sleep,ngu
+557,prove,chung minh
+558,lone,don doc
+559,leg,chan
+560,exercise,tap the duc
+561,wall,tuong
+562,catch,bat
+563,mount,mount
+564,wish,muon
+565,sky,bau troi
+566,board,hoi dong quan tri
+567,joy,niem vui
+568,winter,mua dong
+569,sat,ngoi
+570,written,bang van ban
+571,wild,hoang da
+572,instrument,cu
+573,kept,giu
+574,glass,kinh
+575,grass,co
+576,cow,bo
+577,job,cong viec
+578,edge,canh
+579,sign,dau hieu
+580,visit,lan
+581,past,qua
+582,soft,mem
+583,fun,vui ve
+584,bright,sang
+585,gas,khi
+586,weather,thoi tiet
+587,month,thang
+588,million,trieu
+589,bear,chiu
+590,finish,ket thuc
+591,happy,hanh phuc
+592,hope,hy vong
+593,flower,hoa
+594,clothe,mac
+595,strange,la
+596,gone,ra di
+597,trade,thuong mai
+598,melody,giai dieu
+599,trip,chuyen di
+600,office,van phong
+601,receive,nhan
+602,row,hang
+603,mouth,mieng
+604,exact,chinh xac
+605,symbol,bieu tuong
+606,die,chet
+607,least,nhat
+608,trouble,rac roi
+609,shout,het len
+610,except,tru
+611,wrote,da viet
+612,seed,hat giong
+613,tone,giai dieu
+614,join,tham gia
+615,suggest,de nghi
+616,clean,sach
+617,break,nghi
+618,lady,phu nu
+619,yard,san
+620,rise,tang
+621,bad,xau
+622,blow,don
+623,oil,dau
+624,blood,mau
+625,touch,cham
+626,grew,tang
+627,cent,phan tram
+628,mix,tron
+629,team,doi
+630,wire,day
+631,cost,chi phi
+632,lost,thua
+633,brown,nau
+634,wear,mac
+635,garden,vuon
+636,equal,nhu nhau
+637,sent,gui
+638,choose,chon
+639,fell,giam
+640,fit,phu hop voi
+641,flow,chay
+642,fair,cong bang
+643,bank,ngan hang
+644,collect,thu thap
+645,save,luu
+646,control,kiem soat
+647,decimal,so thap phan
+648,ear,tai
+649,else,khac
+650,quite,kha
+651,broke,da pha vo
+652,case,khi
+653,middle,trung
+654,kill,giet
+655,son,con trai
+656,lake,ho
+657,moment,thoi diem
+658,scale,quy mo
+659,loud,lon
+660,spring,mua xuan
+661,observe,quan sat
+662,child,con
+663,straight,thang
+664,consonant,phu am
+665,nation,quoc gia
+666,dictionary,tu dien
+667,milk,sua
+668,speed,toc do
+669,method,phuong phap
+670,organ,co quan
+671,pay,tra
+672,age,tuoi
+673,section,phan
+674,dress,vay
+675,cloud,dien toan dam may
+676,surprise,bat ngo
+677,quiet,yen tinh
+678,stone,da
+679,tiny,nho
+680,climb,len cao
+681,cool,mat me
+682,design,thiet ke
+683,poor,nguoi ngheo
+684,lot,rat nhieu
+685,experiment,thi nghiem
+686,bottom,duoi
+687,key,chinh
+688,iron,sat
+689,single,don
+690,stick,thanh
+691,flat,phang
+692,twenty,hai muoi
+693,skin,da
+694,smile,nu cuoi
+695,crease,nep
+696,hole,lo
+697,jump,nhay
+698,baby,be
+699,eight,tam
+700,village,lang
+701,meet,dap ung
+702,root,goc
+703,buy,mua
+704,raise,nang cao
+705,solve,giai quyet
+706,metal,kim loai
+707,whether,lieu
+708,push,day
+709,seven,bay
+710,paragraph,doan
+711,third,thu ba
+712,shall,co trach nhiem
+713,held,duoc to chuc
+714,hair,long
+715,describe,mo ta
+716,cook,nau an
+717,floor,san
+718,either,hoac
+719,result,ket qua
+720,burn,ghi
+721,hill,doi
+722,safe,an toan
+723,cat,meo
+724,century,the ky
+725,consider,xem xet
+726,type,loai
+727,law,phap luat
+728,bit,bit
+729,coast,bo bien
+730,copy,ban sao
+731,phrase,cum tu
+732,silent,im lang
+733,tall,cao
+734,sand,cat
+735,soil,dat
+736,roll,cuon
+737,temperature,nhiet do
+738,finger,ngon tay
+739,industry,nganh cong nghiep
+740,value,gia tri
+741,fight,cuoc chien
+742,lie,loi noi doi
+743,beat,danh bai
+744,excite,kich thich
+745,natural,tu nhien
+746,view,xem
+747,sense,y nghia
+748,capital,von
+749,won’t,se khong
+750,chair,ghe
+751,danger,nguy hiem
+752,fruit,trai cay
+753,rich,giau
+754,thick,day
+755,soldier,nguoi linh
+756,process,qua trinh
+757,operate,hoat dong
+758,practice,thuc hanh
+759,separate,rieng biet
+760,difficult,kho khan
+761,doctor,bac si
+762,please,xin vui long
+763,protect,bao ve
+764,noon,trua
+765,crop,cay trong
+766,modern,hien dai
+767,element,yeu to
+768,hit,nhan
+769,student,sinh vien
+770,corner,goc
+771,party,ben
+772,supply,cung cap
+773,whose,co
+774,locate,xac dinh vi tri
+775,ring,vong
+776,character,nhan vat
+777,insect,con trung
+778,caught,bat
+779,period,thoi gian
+780,indicate,chi ra
+781,radio,radio
+782,spoke,noi
+783,atom,nguyen tu
+784,human,con nguoi
+785,history,lich su
+786,effect,hieu luc
+787,electric,dien
+788,expect,mong doi
+789,bone,xuong
+790,rail,duong sat
+791,imagine,tuong tuong
+792,provide,cho
+793,agree,dong y
+794,thus,do do
+795,gentle,nhe nhang
+796,woman,nguoi phu nu
+797,captain,doi truong
+798,guess,doan
+799,necessary,can thiet
+800,sharp,sac net
+801,wing,canh
+802,create,tao
+803,neighbor,hang xom
+804,wash,rua
+805,bat,bat
+806,rather,thay
+807,crowd,dam dong
+808,corn,ngo
+809,compare,so sanh
+810,poem,bai tho
+811,string,chuoi
+812,bell,chuong
+813,depend,phu thuoc
+814,meat,thit
+815,rub,cha
+816,tube,ong
+817,famous,noi tieng
+818,dollar,dong do la
+819,stream,song
+820,fear,so hai
+821,sight,canh
+822,thin,mong
+823,triangle,tam giac
+824,planet,hanh tinh
+825,hurry,nhanh
+826,chief,truong
+827,colony,thuoc dia
+828,clock,dong ho
+829,mine,toi
+830,tie,ca vat
+831,enter,nhap
+832,major,chinh
+833,fresh,tuoi
+834,search,tim kiem
+835,send,gui
+836,yellow,vang
+837,gun,sung
+838,allow,cho phep
+839,print,in
+840,dead,chet
+841,spot,tai cho
+842,desert,sa mac
+843,suit,phu hop voi
+844,current,hien tai
+845,lift,thang may
+846,rose,tang
+847,arrive,den
+848,master,chu
+849,track,theo doi
+850,parent,me
+851,shore,bo
+852,division,phan chia
+853,sheet,to
+854,substance,chat
+855,favor,ung ho
+856,connect,ket noi
+857,post,bai
+858,spend,chi tieu
+859,chord,hop am
+860,fat,chat beo
+861,glad,vui
+862,original,ban dau
+863,share,chia se
+864,station,tram
+865,dad,cha
+866,bread,banh mi
+867,charge,phi
+868,proper,thich hop
+869,bar,thanh
+870,offer,phuc vu
+871,segment,phan khuc
+872,slave,no le
+873,duck,vit
+874,instant,ngay lap tuc
+875,market,thi truong
+876,degree,muc do
+877,populate,cu
+878,chick,ga
+879,dear,than yeu
+880,enemy,ke thu
+881,reply,tra loi
+882,drink,ly
+883,occur,xay ra
+884,support,ho tro
+885,speech,bai phat bieu
+886,nature,thien nhien
+887,range,pham vi
+888,steam,hoi nuoc
+889,motion,chuyen dong
+890,path,con duong
+891,liquid,chat long
+892,log,dang nhap
+893,meant,co nghia la
+894,quotient,thuong
+895,teeth,rang
+896,shell,vo
+897,neck,co
+898,oxygen,oxy
+899,sugar,duong
+900,death,chet
+901,pretty,kha
+902,skill,ky nang
+903,women,phu nu
+904,season,mua
+905,solution,giai phap
+906,magnet,nam cham
+907,silver,bac
+908,thank,cam on
+909,branch,chi nhanh
+910,match,tran dau
+911,suffix,hau to
+912,especially,dac biet la
+913,fig,sung
+914,afraid,so
+915,huge,to
+916,sister,em gai
+917,steel,thep
+918,discuss,thao luan
+919,forward,ve phia truoc
+920,similar,tuong tu
+921,guide,huong dan
+922,experience,kinh nghiem
+923,score,diem
+924,apple,tao
+925,bought,mua
+926,led,dan
+927,pitch,san
+928,coat,ao
+929,mass,khoi luong
+930,card,the
+931,band,ban nhac
+932,rope,day
+933,slip,truot
+934,win,gianh chien thang
+935,dream,mo
+936,evening,buoi toi
+937,condition,dieu kien
+938,feed,thuc an chan nuoi
+939,tool,cong cu
+940,total,tong so
+941,basic,co ban
+942,smell,mui
+943,valley,thung lung
+944,nor,cung khong
+945,double,doi
+946,seat,ghe
+947,continue,tiep tuc
+948,block,khoi
+949,chart,bieu do
+950,hat,mu
+951,sell,ban
+952,success,thanh cong
+953,company,cong ty
+954,subtract,tru
+955,event,su kien
+956,particular,rieng
+957,deal,thoa thuan
+958,swim,boi
+959,term,han
+960,opposite,nguoc lai
+961,wife,vo
+962,shoe,giay
+963,shoulder,vai
+964,spread,lay lan
+965,arrange,sap xep
+966,camp,trai
+967,invent,phat minh
+968,cotton,bong
+969,born,Sinh
+970,determine,xac dinh
+971,quart,lit
+972,nine,chin
+973,truck,xe tai
+974,noise,tieng on
+975,level,muc
+976,chance,co hoi
+977,gather,thu thap
+978,shop,cua hang
+979,stretch,cang ra
+980,throw,nem
+981,shine,toa sang
+982,property,tai san
+983,column,cot
+984,molecule,phan tu
+985,select,chon
+986,wrong,sai rùi
+987,gray,mau xam
+988,require,yeu cau
+989,broad,rong
+990,prepare,chuan bi
+991,nose,cái mui
+992,anger,tuc gian
+993,claim,xin
+994,continent,luc
+995,blabla,đầu cắt moi
+996,nosed,đsdsd
+997,his,cua anh
+998,was,thi

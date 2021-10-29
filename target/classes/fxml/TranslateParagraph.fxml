@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0"
+            prefWidth="600.0" style="-fx-background-color: #C4DE9A;" xmlns="http://javafx.com/javafx/11.0.1"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.TranslateParagraphController">
+    <children>
+        <Button fx:id="translateButton" alignment="CENTER" layoutX="256.0" layoutY="295.0" mnemonicParsing="false"
+                onAction="#translateParagraphButton" prefHeight="33.0" prefWidth="88.0"
+                style="-fx-background-color: E2C2B9;" text="Dịch">
+            <font>
+                <Font size="16.0"/>
+            </font>
+        </Button>
+        <TextArea fx:id="searchTextField" layoutX="15.0" layoutY="24.0" maxHeight="1.7976931348623157E308"
+                  maxWidth="1.7976931348623157E308" prefHeight="257.0" prefWidth="276.0" promptText="Nhập đoạn văn"
+                  wrapText="true">
+            <font>
+                <Font size="15.0"/>
+            </font>
+        </TextArea>
+        <TextArea fx:id="wordDescription" layoutX="310.0" layoutY="24.0" maxHeight="1.7976931348623157E308"
+                  maxWidth="1.7976931348623157E308" prefHeight="258.0" prefWidth="276.0" promptText="Bản dịch"
+                  wrapText="true">
+            <font>
+                <Font size="15.0"/>
+            </font>
+        </TextArea>
+    </children>
+</AnchorPane>

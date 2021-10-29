@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<BorderPane fx:id="mainPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="Controller.Controller">
+    <top>
+        <AnchorPane prefHeight="36.0" prefWidth="600.0" style="-fx-background-color: #E2C2B9;"
+                    BorderPane.alignment="CENTER">
+            <children>
+                <Button layoutX="221.0" layoutY="13.0" mnemonicParsing="false" onAction="#translateParagraphButton"
+                        prefHeight="26.0" prefWidth="134.0" style="-fx-background-color: #C4DE9A;"
+                        text="Translate Paragraph" textFill="#272825"/>
+                <Button layoutX="111.0" layoutY="13.0" mnemonicParsing="false" onAction="#editWordButton"
+                        prefHeight="26.0" prefWidth="115.0" style="-fx-background-color: #DBEBC1;" text="Edit words"
+                        textFill="#272825"/>
+                <Button layoutY="13.0" mnemonicParsing="false" onAction="#useDictionaryButton" prefHeight="26.0"
+                        prefWidth="115.0" style="-fx-background-color: #F1F7E7;" text="Use Dictionary"
+                        textFill="#272825"/>
+                <Label layoutX="438.0" layoutY="15.0" text="Welcome to NP Dictionary!"/>
+            </children>
+        </AnchorPane>
+    </top>
+    <center>
+        <AnchorPane prefHeight="350.0" prefWidth="600.0" style="-fx-background-color: #BFD8B8;"
+                    BorderPane.alignment="CENTER">
+            <children>
+                <AnchorPane layoutY="-1.0" prefHeight="9.0" prefWidth="600.0" style="-fx-background-color: #F1F7E7;"/>
+                <Label layoutX="107.0" layoutY="35.0" text="Hướng dẫn sử dụng NP dictionary" textFill="#dc907b">
+                    <font>
+                        <Font name="000 Shake TB" size="26.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="107.0" layoutY="87.0" text="1. Use Dictionary: tra từ đơn " textFill="#a19882">
+                    <font>
+                        <Font name="Encode Sans Regular" size="26.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="107.0" layoutY="138.0" text="2. Edit words: Thêm/sửa/xóa từ" textFill="#a19882">
+                    <font>
+                        <Font name="Encode Sans Regular" size="26.0"/>
+                    </font>
+                </Label>
+                <Label layoutX="107.0" layoutY="188.0" text="3. Translate Paragraph: Dịch đoạn văn" textFill="#a19882">
+                    <font>
+                        <Font name="Encode Sans Regular" size="26.0"/>
+                    </font>
+                </Label>
+            </children>
+        </AnchorPane>
+    </center>
+</BorderPane>

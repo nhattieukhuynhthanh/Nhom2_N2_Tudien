@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0"
+            prefWidth="600.0" style="-fx-background-color: #DBEBC1;" xmlns="http://javafx.com/javafx/17"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.EditWordController">
+    <children>
+        <TextField fx:id="editWordTargetTextField" layoutX="99.0" layoutY="60.0" maxHeight="1.7976931348623157E308"
+                   maxWidth="1.7976931348623157E308" prefHeight="25.0" prefWidth="401.0" promptText="Nhập từ "/>
+        <Label layoutX="99.0" layoutY="167.0" text="Lưu ý: Để trống phần nghĩa nếu muốn xóa từ"/>
+        <TextField fx:id="editWordMeaningTextField" layoutX="99.0" layoutY="132.0" maxHeight="1.7976931348623157E308"
+                   maxWidth="1.7976931348623157E308" prefHeight="25.0" prefWidth="401.0" promptText="Nhập nghĩa"/>
+        <Button fx:id="editWordButton" alignment="CENTER" layoutX="271.0" layoutY="214.0" mnemonicParsing="false"
+                onAction="#editWordButtonClick" prefHeight="32.0" style="-fx-background-color: #FFDAC7;"
+                text="Ghi nhận">
+            <font>
+                <Font size="15.0"/>
+            </font>
+        </Button>
+    </children>
+</AnchorPane>
